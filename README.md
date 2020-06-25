@@ -1,0 +1,1 @@
+This is a blog created with mezzanine django and javascript and bootstrap.
